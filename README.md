@@ -53,7 +53,7 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=calm_pink )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihgtrz&show_icons=true&theme=calm_pink )
 
 ###
 
