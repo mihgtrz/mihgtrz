@@ -46,7 +46,7 @@
 <details>
    <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have experience with Figma and Canva, focused on design. My skills are creativity, communication, marketing, and social media.
+  - 💬 I am 19 years old, currently living in Brazil. I have experience with Figma and Canva, focused on design. My skills are creativity, communication, marketing, and social media.
 
   - ⚡ I like listening to music, whether it's upbeat music or classical music, as well as watching movies and playing games!
     </details>
