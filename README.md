@@ -36,7 +36,7 @@
 
 ---
   <p>
-    - 🌱 I'm currently studying Systems Analysis and Development at Universidade Paulista (UNIP) 
+    - 🌱 I'm currently studying Systems Analysis and Development at Universidade Anhanguera!
     <br>
     - 🔭 I'm looking for my first job opportunity.
   </p>
